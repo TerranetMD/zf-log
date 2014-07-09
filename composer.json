@@ -1,5 +1,5 @@
 {
-    "name": "TerranetMD/zf-log",
+    "name": "terranetmd/zf-log",
     "description": "Provides useful Zend_Log Writers and Formatters",
     "type": "library",
     "keywords": [
