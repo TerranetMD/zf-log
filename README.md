@@ -26,6 +26,10 @@ add a following line (root-only) into your composer.json
             "url": "https://github.com/TerranetMD/log.git"
         }
     ]
+    
+    "require" : {
+        "TerranetMD/log" : "dev-master"
+    }
 
 run
 
