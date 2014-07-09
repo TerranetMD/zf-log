@@ -1,12 +1,13 @@
 {
-    "name": "endihunter/log",
+    "name": "TerranetMD/zf-log",
     "description": "Provides useful Zend_Log Writers and Formatters",
     "type": "library",
     "keywords": [
         "terranet",
-        "log"
+        "log",
+        "zf"
     ],
-    "homepage": "http://github.com/endihunter/log",
+    "homepage": "http://github.com/TerranetMD/zf-log",
     "license": "BSD-3-Clause",
     "require": {
         "php": ">=5.3.5"
