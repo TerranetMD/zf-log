@@ -82,7 +82,7 @@ class Growl extends \Zend_Log_Writer_Abstract
 
         $this->connection = array(
             'address'   => (isset($options['address'])  ? $options['address'] : '127.0.0.1'),
-            'password'  => (isset($options['password']) ? $options['password'] : 'username'),
+            'password'  => (isset($options['password']) ? $options['password'] : 'password'),
             'port'      => (isset($options['port'])     ? $options['port'] : 9887)
         );
 
